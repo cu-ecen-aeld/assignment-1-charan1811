@@ -109,6 +109,5 @@ int main(int argc, char* argv[])
 
 	close_file(fd);
 	closelog();
-
 	return 0;
 }
